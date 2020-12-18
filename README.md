@@ -1,0 +1,1 @@
+This is Mason's first git project!
